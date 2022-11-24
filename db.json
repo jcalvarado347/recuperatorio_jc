@@ -1,0 +1,85 @@
+{
+  "usuarios": [
+    {
+      "Nombre": "Alejandra",
+      "Ci": "6546512",
+      "Direccion": "Sopocacha",
+      "Celular": "5555665",
+      "id": 1
+    },
+    {
+      
+      "Nombre": "Maria",
+      "Ci": "651681",
+      "Direccion": "Calacoto",
+      "Celular": "5468455",
+      "id": 2
+    },
+    {
+      "Nombre": "Juan",
+      "Ci": "4982363",
+      "Direccion": "villa armonia",
+      "Celular": "72524738",
+      "id": 3
+    },
+    {
+      "Nombre": "dora",
+      "Ci": "4981651",
+      "Direccion": "cochabamba",
+      "Celular": "654687",
+      "id": 4
+    }
+  ],
+  "consumo": [
+    {
+      
+      "Usuario": "Juan",
+      "Fecha": "2022-11-24",
+      "Cantidad": "300",
+      "Total": 1500,
+      "id": 1
+    },
+    {
+      "Usuario": "Alejandra",
+      "Cantidad": "120",
+      "Fecha": "2022-11-22",
+      "Total": 556,
+      "id": 2
+    },
+    {
+      "Usuario": "Juan",
+      "Cantidad": "300",
+      "Fecha": "2022-11-15",
+      "Total": 180,
+      "id": 3
+    },
+    {
+      "Usuario": "Alejandra",
+      "Cantidad": "425",
+      "Fecha": "2022-11-12",
+      "Total": 158,
+      "id": 4
+    },
+    {
+      "Usuario": "Maria",
+      "Cantidad": "925",
+      "Fecha": "2022-11-18",
+      "Total": 450,
+      "id": 5
+    },
+    {
+      "Usuario": "dora",
+      "Fecha": "2022-11-25",
+      "Cantidad": "54",
+      "Total": 180,
+      "id": 6
+    },
+    {
+      "Usuario": "dora",
+      "Fecha": "2022-11-24",
+      "Cantidad": "300",
+      "Total": 1500,
+      "id": 7
+    }
+  ]
+}
